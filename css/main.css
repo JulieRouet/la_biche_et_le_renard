@@ -20,3 +20,6 @@
 .navbar-default {
   background-color: #0000!important;
 }
+#musique {
+  background-image:url('/img/musique.png');
+}
